@@ -1,0 +1,22 @@
+.Jenna-image {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.text {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color: white;
+  white-space: initial;
+}
+
+.otherText {
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+  text-align: center;
+  color: white;
+  white-space: initial;
+}
